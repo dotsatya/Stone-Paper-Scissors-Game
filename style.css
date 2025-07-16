@@ -27,7 +27,6 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  /* height: 100vh; */
 }
 
 .choices{
@@ -89,4 +88,45 @@ body{
   gap: 50px;
   margin: 20px 0;
   font-size: 24px;
+}
+
+@media screen and (max-width: 500px) {
+  .section {
+    width: 90%;
+  }
+
+  .choices {
+    flex-direction: column;
+  }
+
+  .choice {
+    width: 70%;
+    margin: 10px 0;
+  }
+
+  .track-choice {
+    width: 70%;
+    font-size: 18px;
+    padding: 15px;
+  }
+
+  .msg {
+    width: 90%;
+    font-size: 18px;
+    padding: 15px;
+  }
+  
+  .score-board {
+    flex-direction: column;
+    gap: 20px;
+    font-size: 20px;
+  }
+
+  .title {
+    font-size: 28px;
+  }
+
+  .sub-title {
+    font-size: 20px;
+  }
 }
